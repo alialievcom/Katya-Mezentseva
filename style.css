@@ -8,8 +8,8 @@ head {
 header{
     padding-bottom: 50px;
 }
-body {
-
+body, header {
+    font-size: 100%;
 }
 a {
     color: black;
@@ -17,6 +17,10 @@ a {
 }
 a:hover {
     color: rgba(79,86,133,1);
+}
+
+a.katya:hover {
+    color: black;
 }
 
 li{
