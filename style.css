@@ -8,8 +8,8 @@ head {
 header{
     padding-bottom: 50px;
 }
-body, header {
-    font-size: 100%;
+body {
+    font-size: 125%;
 }
 a {
     color: black;

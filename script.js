@@ -22,8 +22,14 @@ btn.on('click', function(e) {
     $('html, body').animate({scrollTop:0}, '300');
 });
 
-// const box = document.querySelector('.link');
-//
-// box.addEventListener('mouseover', function handleMouseOver() {
-//     box.style.color = 'red';
-// });
+const imgContent = document.querySelectorAll('.img-content-hover');
+
+function showImgContent(e) {
+    for(var i = 0; i < imgContent.length; i++) {
+        x = e.pageX;
+        y = e.pageY;
+        imgContent[i].style.transform = `translate3d(${x}px, ${y}px, 0)`;
+    }
+};
+
+document.addEventListener('mousemove', showImgContent);
