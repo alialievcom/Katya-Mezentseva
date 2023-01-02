@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+head {
+
+}
+header{
+    padding-bottom: 50px;
+}
+body {
+
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: rgba(79,86,133,1);
+}
+
+li{
+    display: inline-block;
+    padding-inline: 15px;
+    padding-bottom: 10px;
+    padding-left: 0;
+}
+
+ul{
+    padding-left: 50px;
+}
+
+h1 {
+    padding-left: 50px;
+}
+
+.youtube{
+    padding-left: 50px;
+}
+
+iframe{
+    border: 1pt solid black;
+}
+
+
+/*MOBILE*/
+
+@media all and (max-width: 500px) {
+    .bar {
+        display: none;
+    }
+
+    #pencet {
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        cursor: pointer;
+        padding-left: 50px;
+        padding-top: 10px;
+    }
+
+    #pencet span {
+        background-color: black;
+        width: 2em;
+        height: .2em;
+        margin: 0.13em 0;
+        display: block;
+        transition: all .4s ease;
+        transform-origin: 0 0;
+    }
+
+    .Diam span:nth-child(1) {
+        transform: rotate(28deg) translate(1px, -1px);
+    }
+
+    .Diam span:nth-child(2) {
+        Transform: scaleX(0);
+    }
+
+    .Diam span:nth-child(3) {
+        transform: rotate(-28deg) translate(1px, 0);
+    }
+    .links-menu{
+        display: flex !important;
+        align-items:flex-start;
+        margin-top:10px;
+        flex-direction:column;
+        position: center;
+        padding-left: 50px;
+
+    }
+    .youtube-video {
+        width: 250px;
+        height: 150px;
+    }
+}
+
+
+#links-hide-menu {
+    display: none
+}
