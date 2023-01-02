@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27e6a5f6-914b-4212-a8bf-f2df84372c9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/architecture/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/illustration/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sculpture/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architecture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/basic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/illustration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/illustration/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sculpture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sculpture/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672569973576</updated>
       <workItem from="1672569976797" duration="9448000" />
-      <workItem from="1672669203837" duration="2556000" />
+      <workItem from="1672669203837" duration="2808000" />
     </task>
     <servers />
   </component>
