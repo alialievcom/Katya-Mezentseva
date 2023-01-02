@@ -44,8 +44,8 @@ iframe{
 
 
 /*MOBILE*/
-
-@media all and (max-width: 500px) {
+/*only screen and (max-width: 768px)*/
+@media only screen and (max-width: 500px) {
     .bar {
         display: none;
     }
