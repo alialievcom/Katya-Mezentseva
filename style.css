@@ -95,6 +95,21 @@ iframe{
         width: 250px;
         height: 150px;
     }
+
+    ul{
+        padding-left: 25px;
+    }
+
+    h1 {
+        padding-left: 25px;
+    }
+
+    .youtube{
+        padding-left: 25px;
+    }
+    header{
+        padding-bottom: 25px;
+    }
 }
 
 
