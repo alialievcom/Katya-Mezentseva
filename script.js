@@ -1,5 +1,7 @@
 const clickx= document.getElementById('pencet');
 const clickx2= document.getElementById('links-hide-menu');
+const imgContent = document.querySelectorAll('.img-content-hover');
+
 
 clickx.addEventListener('click', function(){
     clickx.classList.toggle('Diam');
@@ -22,7 +24,6 @@ btn.on('click', function(e) {
     $('html, body').animate({scrollTop:0}, '300');
 });
 
-const imgContent = document.querySelectorAll('.img-content-hover');
 
 function showImgContent(e) {
     for(var i = 0; i < imgContent.length; i++) {
@@ -31,5 +32,3 @@ function showImgContent(e) {
         imgContent[i].style.transform = `translate3d(${x}px, ${y}px, 0)`;
     }
 };
-
-document.addEventListener('mousemove', showImgContent);
