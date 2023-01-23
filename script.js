@@ -32,3 +32,5 @@ function showImgContent(e) {
         imgContent[i].style.transform = `translate3d(${x}px, ${y}px, 0)`;
     }
 };
+
+document.addEventListener('mousemove', showImgContent);
