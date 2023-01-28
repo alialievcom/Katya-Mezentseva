@@ -665,15 +665,6 @@ iframe{
     box-sizing: border-box;
 }
 
-body {
-    font-family: "Barlow", sans-serif;
-    /*font-size: 220%;*/
-    line-height: 1.5;
-    color: #787878;
-    background: #fff;
-    text-rendering: optimizeLegibility;
-}
-
 ul li {
     margin: 0 1.5rem 0 0;
 }
@@ -818,7 +809,7 @@ footer {
 }
 
 
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 900px) {
     .mobile{
         display: inherit;
     }
@@ -864,7 +855,7 @@ footer {
         justify-content:center;
     }
 }
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 900px) {
     .mobile{
         display: none !important;
     }
