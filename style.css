@@ -667,7 +667,7 @@ iframe{
 
 body {
     font-family: "Barlow", sans-serif;
-    font-size: 220%;
+    /*font-size: 220%;*/
     line-height: 1.5;
     color: #787878;
     background: #fff;
