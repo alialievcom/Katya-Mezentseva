@@ -812,6 +812,9 @@ footer {
     .mobile{
         display: inherit;
     }
+    body {
+        font-size: 90% !important;
+    }
     .grid {
         display: grid !important;
         grid-template-columns: repeat(4, 1fr) !important;
