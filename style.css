@@ -47,7 +47,7 @@ iframe{
 }
 
 .about {
-    padding-left: 50px;
+    /*padding-left: 50px;*/
 }
 .about.li{
     display: inline-block;
