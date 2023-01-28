@@ -46,6 +46,16 @@ iframe{
     border: 1pt solid black;
 }
 
+.about {
+    padding-left: 50px;
+}
+.about.li{
+    display: inline-block;
+    padding-inline: 15px;
+    padding-bottom: 10px;
+    padding-left: 0;
+}
+
 
 /*MOBILE*/
 /*only screen and (max-width: 768px)*/
