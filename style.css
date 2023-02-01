@@ -1,3 +1,10 @@
+@font-face {
+font-family: "DelaGothicOne";
+src: url("./fonts/DelaGothicOne_Regular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
 *{
     padding: 0;
     margin: 0;
@@ -6,21 +13,13 @@ head {
 
 }
 header{
+    padding-top: 40px;
+    font-family: "DelaGothicOne", serif;
     padding-bottom: 50px;
 }
 body {
+    font-family: "DelaGothicOne", serif;
     font-size: 125%;
-}
-a {
-    color: black;
-    text-decoration: none;
-}
-a:hover {
-    color: rgba(79,86,133,1);
-}
-
-a.katya:hover {
-    color: black;
 }
 
 li{
@@ -49,6 +48,9 @@ iframe{
 .about {
     /*padding-left: 50px;*/
 }
+.pad50{
+    padding-left: 50px;
+}
 .about.li{
     display: inline-block;
     padding-inline: 15px;
@@ -64,6 +66,7 @@ iframe{
 @media only screen and (max-width: 900px) {
     .bar {
         display: none;
+        font-size: +30%;
     }
 
     #pencet {
@@ -131,10 +134,6 @@ iframe{
     display: none
 }
 
-/* 12columns.css | Created by Katherine Kato | Released under the MIT license */
-/* GitHub: https://kathykato.github.io/12columns/ */
-/*@import url("https://fonts.googleapis.com/css?family=Barlow:400,500,700");*/
-@import "../fonts";
 .container {
     padding: 50px;
     width: 100%;
@@ -679,15 +678,24 @@ ul li {
 }
 
 a {
-    color: #787878;
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: rgba(79,86,133,1);
+}
+
+/*a.katya:hover {*/
+/*    color: black;*/
+/*}*/
+
+a {
+    color: black;
     text-decoration: none;
     transition: all 0.2s ease;
 }
-a:hover {
-    color: #2e2e2e;
-}
 a.active {
-    color: #2e2e2e;
+    color: rgba(79,86,133,1);
 }
 
 nav {
