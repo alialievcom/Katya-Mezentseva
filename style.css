@@ -851,12 +851,12 @@ footer {
     }
     .grid {
         display: grid !important;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(6, 1fr);
         grid-template-rows: auto !important;
     }
     .char{
         display: grid !important;
-        grid-template-columns: repeat(6, 1fr);
+        grid-template-columns: repeat(4, 1fr);
         grid-template-rows: auto !important;
     }
     .desktop{
