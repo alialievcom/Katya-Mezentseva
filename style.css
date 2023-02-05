@@ -873,6 +873,7 @@ footer {
         left:10%;
         top:32%;
         overflow:hidden;
+        z-index: -1;
     }
     .prev{
         position:absolute;
