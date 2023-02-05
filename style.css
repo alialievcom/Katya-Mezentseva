@@ -70,6 +70,7 @@ iframe{
     }
     .pad50{
         padding-left: 25px !important;
+        padding-right: 25px !important;
     }
     .container{
         padding-left: 25px !important;
@@ -903,18 +904,18 @@ footer {
         height:80%;
         position:absolute;
         left:10%;
-        top:160%;
+        top:200%;
         overflow:hidden;
     }
     .prev_a{
         position:absolute;
-        top:200%;
+        top:240%;
         left:2.5%;
         cursor:pointer;
     }
     .next_a{
         position:absolute;
-        top:200%;
+        top:240%;
         right:2.5%;
         cursor:pointer;
     }
