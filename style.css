@@ -421,7 +421,7 @@ iframe{
 @supports (display: grid) {
     .grid {
         display: grid !important;
-        grid-template-columns: repeat(6, 1fr) !important;
+        grid-template-columns: repeat(6, 1fr);
         grid-template-rows: auto !important;
     }
     .grid > [class*=column-] {
@@ -787,7 +787,7 @@ footer {
 /*@media screen and (min-width: 2000px) {*/
 .grid {
     display: grid !important;
-    grid-template-columns: repeat(6, 1fr)!important;
+    grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto!important;
 }
 
