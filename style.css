@@ -791,6 +791,18 @@ footer {
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto!important;
 }
+.grid_show{
+    display: grid !important;
+    grid-template-columns: repeat(6, 1fr) !important;
+    grid-template-rows: auto!important;
+}
+.grid_hide {
+    display: grid !important;
+    grid-template-columns: repeat(6, 1fr) !important;
+    grid-template-rows: repeat(1, 1fr) !important;
+    grid-auto-rows: 0;
+    overflow-y: hidden;
+}
 
 .img-container {
     height: 100%;
@@ -934,4 +946,14 @@ footer {
     .prev_a, .next_a {
         display: none;
     }
+}
+.hide{
+    display: none !important;
+}
+
+.show{
+    display: block !important;
+}
+#character{
+    display: none;
 }
