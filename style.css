@@ -839,11 +839,29 @@ footer {
 .ca{
     width: auto;
 }
-.slider_a {
-    top: 160%
-}
 .prev_a, .next_a {
-    top: 200%
+    display: none;
+}
+
+.slider_a{
+    width:80%;
+    height:80%;
+    position:absolute;
+    left:10%;
+    top:160%;
+    overflow:hidden;
+}
+.prev_A{
+    position:absolute;
+    top:200%;
+    left:2.5%;
+    cursor:pointer;
+}
+.next_a{
+    position:absolute;
+    top:200%;
+    right:2.5%;
+    cursor:pointer;
 }
 
 
