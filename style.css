@@ -68,6 +68,13 @@ iframe{
         display: none;
         font-size: +30%;
     }
+    .pad50{
+        padding-left: 25px;
+    }
+    .container{
+        padding-left: 25px !important;
+        padding-right: 0 !important;
+    }
 
     #pencet {
         display: flex;
