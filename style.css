@@ -839,6 +839,12 @@ footer {
 .ca{
     width: auto;
 }
+.slider_a {
+    top: 160%
+}
+.prev_a, .next_a {
+    top: 200%
+}
 
 
 
