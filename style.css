@@ -831,6 +831,11 @@ footer {
     grid-column-start: span 6;
     grid-column-end: span 6;
 }
+.char{
+    display: grid !important;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: auto !important;
+}
 
 
 @media screen and (max-width: 900px) {
@@ -842,7 +847,12 @@ footer {
     }
     .grid {
         display: grid !important;
-        grid-template-columns: repeat(4, 1fr) !important;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: auto !important;
+    }
+    .char{
+        display: grid !important;
+        grid-template-columns: repeat(6, 1fr);
         grid-template-rows: auto !important;
     }
     .desktop{
