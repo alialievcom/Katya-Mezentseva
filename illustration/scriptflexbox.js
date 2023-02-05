@@ -13,7 +13,7 @@ selectors.forEach(function(item, i, selectors) {
     let num = 0
     let slide = '.slide' + item
     let next = '.next' + item
-    let prev = '.prev' + item
+    let prev = '.prev'w + item
     let slides = [...document.querySelectorAll(slide)]
     slides.forEach((slide, i) => {
         if (i > 0) slide.style.left = (100) + '%'
