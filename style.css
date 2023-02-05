@@ -836,6 +836,9 @@ footer {
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: auto !important;
 }
+.ca{
+    width: auto;
+}
 
 
 
