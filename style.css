@@ -69,7 +69,7 @@ iframe{
         font-size: +30%;
     }
     .pad50{
-        padding-left: 25px;
+        padding-left: 25px !important;
     }
     .container{
         padding-left: 25px !important;
