@@ -962,7 +962,18 @@ footer {
 }
 .arrow-container{
     padding-left: 0.8%;
-    padding-right: 98%;
+    padding-right: 97%;
+    cursor: pointer;
+}
+.arrow-container-right{
+    padding-right: 0.8%;
+    padding-left: 97%;
+    cursor: pointer;
+
+}
+.arrow-container-left{
+    padding-left: 0.8%;
+    padding-right: 95%;
     cursor: pointer;
 }
 .down{
