@@ -135,10 +135,8 @@ iframe{
     header{
         padding-bottom: 25px;
     }
-    .line_lower, .line_upper {
-        width: 100%;
-        height: 1px;
-        background: black;
+    .line_upper {
+        height: 1px !important;
     }
 }
 
@@ -979,7 +977,7 @@ footer {
 .right{
     transform: rotate(180deg);
 }
-.line_lower, .line_upper {
+ .line_upper {
     width: 100%;
     height: 4px;
     background: black;
