@@ -60,7 +60,7 @@ function moveSlidePrev(n){
 }
 
 
-document.querySelector('.next_a').addEventListener('click',()=>{
+document.querySelector('.right').addEventListener('click',()=>{
     if(num < slides.length - 1)
     {
         num+=1
@@ -72,7 +72,7 @@ document.querySelector('.next_a').addEventListener('click',()=>{
     }
 })
 
-document.querySelector('.prev_a').addEventListener('click',()=>{
+document.querySelector('.left-button').addEventListener('click',()=>{
     if(num > 0 )
     {
         num-=1

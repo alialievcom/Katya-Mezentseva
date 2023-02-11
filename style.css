@@ -982,8 +982,9 @@ footer {
 .up{
     transform: rotate(90deg);
 }
-.left{
+.left-button{
     transform: rotate(0);
+    z-index: 5;
 }
 .right{
     transform: rotate(180deg);
