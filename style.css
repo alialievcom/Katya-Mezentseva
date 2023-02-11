@@ -982,6 +982,10 @@ footer {
 .up{
     transform: rotate(90deg);
 }
+/*Random Grotesque Standard Book*/
+.grotesque {
+    font-family: Random Grotesque Standard Book, serif;
+}
 .left-button{
     width: 25px;
     height: 50px;
