@@ -1,6 +1,5 @@
 import Frame from 'https://cdn.jsdelivr.net/gh/ofekN/Frame/src/frame.js'
 
-console.log("1")
 
 let chapters = new Map([['char', 'character'],
     ['larg', 'larger'], ['small', 'smaller'],

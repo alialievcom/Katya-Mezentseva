@@ -966,15 +966,17 @@ footer {
     }
     .prev_a{
         position:absolute;
-        top:290%;
+        top:185%;
         left:2.5%;
         cursor:pointer;
+        z-index:5
     }
     .next_a{
         position:absolute;
-        top:290%;
-        right:2.5%;
+        top:185%;
+        right:-0.5%;
         cursor:pointer;
+        z-index: 5;
     }
     .youtube_frame{
         width:318px !important;
@@ -1061,7 +1063,7 @@ footer {
     background: black;
 }
 .link-mobile {
-    font-size: +100%;
+    font-size: +140%;
     background-color: white;
 }
 
