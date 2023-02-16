@@ -82,6 +82,9 @@ iframe{
     .padding_menu{
         padding-bottom: 120px !important;
     }
+    .mentions {
+        padding-left: 25px !important;
+    }
     .container{
         padding: 25px !important;
     }
@@ -915,7 +918,7 @@ footer {
         align-items:center;
         justify-content:center;
     }
-    .slide_char, .slide_larg, .slide_small, .slide_ser, .slide_rus, .slide_fr{
+        .slide_char, .slide_larg, .slide_small, .slide_ser, .slide_rus{
         display: flex;
         position: absolute;
         overflow: hidden;
@@ -929,6 +932,13 @@ footer {
         overflow:hidden;
         z-index: 2;
         padding: 0 0 0 25px !important;
+    }
+    .slide_fr {
+        display: flex;
+        position: absolute;
+        overflow: hidden;
+        align-items: baseline;
+        padding: 25px;
     }
     #character, #larger, #smaller, #series, #russian{
         grid: none;
