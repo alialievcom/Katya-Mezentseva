@@ -1115,3 +1115,12 @@ footer {
 .mentions {
     padding-left: 50px;
 }
+.four_img {
+    position: absolute;
+    bottom: 50%;
+}
+.four_text {
+    position: absolute;
+    margin: 25px;
+    top: 50%;
+}
