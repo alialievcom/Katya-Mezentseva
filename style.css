@@ -1116,6 +1116,7 @@ footer {
     padding-left: 50px;
 }
 .four_img {
+    width: 100%;
     position: absolute;
     bottom: 50%;
 }
