@@ -92,6 +92,7 @@ iframe{
     }
     .mentions {
         padding-left: 25px !important;
+        padding-right: 25px !important;
     }
     .container{
         padding: 1rem 25px 1rem 25px !important;
@@ -1115,7 +1116,7 @@ footer {
 }
 .new_about{
     white-space: nowrap;
-    padding-right: 1rem;
+    padding-right: 6rem;
 }
 .new_about_img{
     height: 470px;
