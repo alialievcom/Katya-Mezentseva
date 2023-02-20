@@ -28,12 +28,12 @@ head {
 header{
     position: fixed;
     padding-top: 40px;
-    font-family: "DelaGothicOne", serif;
+    font-family: "DelaGothicOneWOFF", serif;
     padding-bottom: 50px;
     z-index: 500;
 }
 body {
-    font-family: "DelaGothicOne", serif;
+    font-family: "DelaGothicOneWOFF", serif;
     font-size: 125%;
 }
 
