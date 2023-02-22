@@ -63,6 +63,7 @@ iframe{
 
 .pad50{
     padding-left: 50px;
+    padding-right: 50px;
     padding-top: 8.5rem;
 }
 .about.li{
@@ -93,6 +94,7 @@ iframe{
     .mentions {
         padding-left: 25px !important;
         padding-right: 25px !important;
+        padding-bottom: 2rem;
     }
     .container{
         padding: 1rem 25px 1rem 25px !important;
