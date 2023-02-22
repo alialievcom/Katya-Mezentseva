@@ -78,7 +78,7 @@ iframe{
 /*only screen and (max-width: 768px)*/
 
 /*@media only screen and (max-width: 768px) {*/
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 500px) {
     .bar {
         display: none;
         font-size: +30%;
@@ -952,7 +952,7 @@ footer {
         padding: 25px;
     }
     .slider_an{
-        height: 40rem;
+        height: 50rem;
         position:relative;
         left: 0;
         overflow:hidden;
@@ -1027,7 +1027,7 @@ footer {
     }
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 500px) {
     .grid_show{
         display: grid !important;
         grid-template-columns: repeat(6, 1fr) !important;
