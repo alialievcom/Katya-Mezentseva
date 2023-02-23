@@ -975,12 +975,12 @@ footer {
     }
     .prev_char, .prev_larg, .prev_small, .prev_ser, .prev_rus{
         position: relative;
-        top: 25rem;
+        top: 20rem;
         left: 0.5%;
     }
     .next_char, .next_larg, .next_small, .next_ser, .next_rus{
         position: relative;
-        top: 22.5rem;
+        top: 17.5rem;
         left: 93%;
     }
 
