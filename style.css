@@ -980,20 +980,18 @@ footer {
     .next_char, .next_larg, .next_small, .next_ser, .next_rus{
         position: relative;
         top: 22.5rem;
-        left: 96%;
+        left: 92%;
     }
 
     .prev_a_char{
-        position:absolute;
-        top:290%;
-        left:2.5%;
-        cursor:pointer;
+        position: relative;
+        top: 10rem;
+        left: 0.5%;
     }
     .next_a_char{
-        position:absolute;
-        top:290%;
-        right:2.5%;
-        cursor:pointer;
+        position: relative;
+        top: 7.5rem;
+        left: 92%;
     }
     .slider_a{
         width:80%;
