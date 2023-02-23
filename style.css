@@ -62,9 +62,7 @@ iframe{
 
 
 .pad50{
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 8.5rem;
+    padding: 8.5rem 50px 1rem;
 }
 .about.li{
     display: inline-block;
@@ -980,7 +978,7 @@ footer {
     .next_char, .next_larg, .next_small, .next_ser, .next_rus{
         position: relative;
         top: 22.5rem;
-        left: 92%;
+        left: 93%;
     }
 
     .prev_a_char{
