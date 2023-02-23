@@ -84,7 +84,7 @@ iframe{
     .pad50{
         padding-left: 25px !important;
         padding-right: 25px !important;
-        padding-top: 8.5rem;
+        padding-top: 7.5rem;
     }
     .padding_menu{
         padding-bottom: 120px !important;
@@ -1145,10 +1145,10 @@ footer {
 .four_img {
     width: 100%;
     position: absolute;
-    bottom: 30%;
+    bottom: 33%;
 }
 .four_text {
     position: absolute;
     margin: 25px;
-    top: 70%;
+    top: 63%;
 }
