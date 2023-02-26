@@ -86,6 +86,9 @@ iframe{
         padding-right: 25px !important;
         padding-top: 7.5rem;
     }
+    .main_about{
+        padding: 0 25px 0 25px !important;
+    }
     .padding_menu{
         padding-bottom: 120px !important;
     }
@@ -1206,6 +1209,6 @@ footer {
 
 @media only screen and (max-width: 1250px) {
     .main_about{
-        flex-wrap: wrap;
+        flex-wrap: wrap !important;
     }
 }
