@@ -70,6 +70,9 @@ iframe{
     padding-bottom: 10px;
     padding-left: 0;
 }
+.bar{
+    white-space: nowrap;
+}
 
 
 /*MOBILE*/
