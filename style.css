@@ -934,13 +934,19 @@ footer {
         align-items: center;
         padding: 25px;
     }
-    .slider_char, .slider_larg, .slider_small, .slider_ser, .slider_rus, .slider_fr{
+    .slider_char, .slider_larg, .slider_small, .slider_ser, .slider_rus{
         height: 43rem;
         position:relative;
         left: 0;
         overflow:hidden;
         z-index: 2;
-        /*padding: 0 0 0 25px !important;*/
+    }
+    .slider_fr {
+        height: 40rem;
+        position:relative;
+        left: 0;
+        overflow:hidden;
+        z-index: 2;
     }
     .slider_larg{
         height: 39rem !important;
@@ -967,28 +973,23 @@ footer {
         left: 0;
 
         /*padding: 25px;*/
-    }
+}
     #character, #larger, #smaller, #series, #russian{
         grid: none;
         grid-template-columns: none;
         grid-gap: unset;
     }
-    .prev_char, .prev_larg, .prev_small, .prev_ser, .prev_rus{
-        position: relative;
-        top: 20rem;
-        left: 0.5%;
-    }
-    .next_char, .next_larg, .next_small, .next_ser, .next_rus{
+    .next_char, .next_larg, .next_rus{
         position: relative;
         top: 17.5rem;
         left: 93%;
     }
-
     .prev_a_char{
         position: relative;
         top: 10rem;
         left: 0.5%;
     }
+
     .next_a_char{
         position: relative;
         top: 7.5rem;
@@ -1019,6 +1020,51 @@ footer {
     .youtube_frame{
         width:318px !important;
         height:200px !important;
+    }
+    .prev_char, .prev_larg, .prev_small, .prev_rus{
+        position: relative;
+        top: 20rem;
+        left: 0.5%;
+    }
+    .prev_four{
+        position: relative;
+        top: 15rem;
+        left: 0.5%;
+    }
+    .next_four{
+        position: relative;
+        top: 12.5rem;
+        left: 93%;
+    }
+    .prev_larg{
+        position: relative;
+        top: 19rem;
+        left: 0.5%;
+    }
+    .next_larg{
+        position: relative;
+        top: 16.5rem;
+        left: 93%;
+    }
+    .prev_ser{
+        position: relative;
+        top: 21rem;
+        left: 0.5%;
+    }
+    .next_ser{
+        position: relative;
+        top: 18.5rem;
+        left: 93%;
+    }
+    .prev_small{
+        position: relative;
+        top: 21rem;
+        left: 0.5%;
+    }
+    .next_small{
+        position: relative;
+        top: 18.5rem;
+        left: 93%;
     }
     .my-column-mb-3{
         grid-column-start: span 3!important;
