@@ -1180,6 +1180,7 @@ footer {
 .new_about{
     white-space: nowrap;
     padding-right: 6rem;
+    padding-bottom: 1rem;
 }
 .new_about_img{
     height: 470px;
@@ -1190,6 +1191,7 @@ footer {
 }
 .mentions {
     padding-left: 50px;
+    padding-bottom: 2rem;
 }
 .four_img {
     width: 100%;
@@ -1200,4 +1202,10 @@ footer {
     position: absolute;
     margin: 25px;
     top: 63%;
+}
+
+@media only screen and (max-width: 1250px) {
+    .main_about{
+        flex-wrap: wrap;
+    }
 }
