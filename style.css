@@ -977,10 +977,13 @@ footer {
 
         /*padding: 25px;*/
 }
-    #character, #larger, #smaller, #series, #russian{
+    #character, #larger, #smaller, #russian{
         grid: none;
         grid-template-columns: none;
         grid-gap: unset;
+    }
+    .series{
+        grid-column-start: span 3 !important;
     }
     .next_char, .next_larg, .next_rus{
         position: relative;
