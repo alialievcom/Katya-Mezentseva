@@ -1054,12 +1054,12 @@ footer {
     }
     .prev_ser{
         position: relative;
-        top: 21rem;
+        top: -1rem;
         left: 0.5%;
     }
     .next_ser{
         position: relative;
-        top: 18.5rem;
+        top: -3.5rem;
         left: 93%;
     }
     .prev_small{
