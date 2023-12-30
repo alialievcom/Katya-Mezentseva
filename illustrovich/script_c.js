@@ -3,7 +3,7 @@ import Frame from 'https://cdn.jsdelivr.net/gh/ofekN/Frame/src/frame.js'
 
 let chapters = new Map([['char', 'character'],
     ['larg', 'larger'], ['small', 'smaller'],
-    ['ser', 'series'], ['rus', 'russian'], ['fr', 'four']])
+    ['ser', 'series'], ['fr', 'four']])
 
 chapters.forEach(ChaptersElements)
 function ChaptersElements(value, key) {
