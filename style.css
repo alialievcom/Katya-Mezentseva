@@ -886,8 +886,8 @@ footer {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: auto !important;
     }
-    .gallery .grid {
-        grid-gap: 0;
+   .grid-1 {
+        grid-gap: 0 !important;
     }
 
     .char{
