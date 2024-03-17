@@ -1023,8 +1023,13 @@ footer {
         cursor:pointer;
         z-index: 5;
     }
+    .youtube_frame-li{
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+    }
     .youtube_frame{
-        width:318px !important;
+        width: 100% !important;
         height:200px !important;
     }
     .prev_char, .prev_larg, .prev_small, .prev_rus{

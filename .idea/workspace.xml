@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e6a5f6-914b-4212-a8bf-f2df84372c9c" name="Changes" comment="" />
+    <list default="true" id="27e6a5f6-914b-4212-a8bf-f2df84372c9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,11 +46,14 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.index.html (1).executor": "Run",
+    "JavaScript Debug.index.html (2).executor": "Run",
+    "JavaScript Debug.index.html (3).executor": "Run",
+    "JavaScript Debug.index.html (4).executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "new__server",
-    "last_opened_file_path": "/Users/ali/WebstormProjects/Katya-Mezentseva",
+    "last_opened_file_path": "/Users/ali/WebstormProjects/Katya-Mezentseva/graphics/graphic",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -58,11 +66,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/graphics/graphic" />
       <recent name="$PROJECT_DIR$/animation" />
       <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/sculpture" />
-      <recent name="$PROJECT_DIR$/about" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -71,8 +79,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/Katya-Mezentseva/illustrovich/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Katya-Mezentseva/graphics/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Katya-Mezentseva/about/index.html" useBuiltInWebServerPort="true">
@@ -84,16 +95,13 @@
     <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Katya-Mezentseva/architecture/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/forK/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
-        <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +123,10 @@
       <workItem from="1703083573926" duration="1451000" />
       <workItem from="1703163098180" duration="795000" />
       <workItem from="1703865192306" duration="2212000" />
+      <workItem from="1706037353579" duration="1106000" />
+      <workItem from="1708945347549" duration="1308000" />
+      <workItem from="1709055341387" duration="786000" />
+      <workItem from="1710685923386" duration="2281000" />
     </task>
     <servers />
   </component>
