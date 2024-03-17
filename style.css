@@ -135,7 +135,6 @@ iframe{
         align-items:flex-start;
         margin-top:10px;
         flex-direction:column;
-        position: center;
         padding-left: 25px;
 
     }
@@ -887,6 +886,9 @@ footer {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: auto !important;
     }
+    .gallery .grid {
+        grid-gap: 0;
+    }
 
     .char{
         display: grid !important;
@@ -924,8 +926,8 @@ footer {
         width:100%;
         height:100%;
         position:absolute;
-        top:0%;
-        left:0%;
+        top:0;
+        left:0;
         display:flex;
         align-items:center;
         justify-content:center;
@@ -1064,8 +1066,11 @@ footer {
     }
     .next_ser{
         position: relative;
-        top: -3.5rem;
+        top: 18.5rem;
         left: 93%;
+    }
+    .prev_ser{
+        top: 20.5rem;
     }
     .prev_small{
         position: relative;
@@ -1219,4 +1224,8 @@ footer {
     .main_about{
         flex-wrap: wrap !important;
     }
+}
+
+.grahic-description{
+    padding-bottom: 1rem;
 }

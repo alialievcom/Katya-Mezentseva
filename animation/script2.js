@@ -11,7 +11,6 @@ function ChaptersElements(value, key) {
     let slides = [...document.querySelectorAll(slide)]
     let left = '.left-button' + '_' + key
     let right = '.right' + '_' + key
-    console.log(key, slide, left, right, slides)
 
 
     slides.forEach((slide, i) => {
