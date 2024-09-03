@@ -49,7 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "new__server",
-    "last_opened_file_path": "/Users/ali/WebstormProjects/Katya-Mezentseva/soda",
+    "last_opened_file_path": "/Users/ali/WebstormProjects/Katya-Mezentseva/soda/soda",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,8 +62,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/soda" />
       <recent name="$PROJECT_DIR$/soda/soda" />
+      <recent name="$PROJECT_DIR$/soda" />
       <recent name="$PROJECT_DIR$/graphics/graphic" />
       <recent name="$PROJECT_DIR$/animation" />
       <recent name="$PROJECT_DIR$/dist" />
@@ -125,7 +125,7 @@
       <workItem from="1710685923386" duration="7250000" />
       <workItem from="1710702277534" duration="1742000" />
       <workItem from="1715609573722" duration="643000" />
-      <workItem from="1725299804785" duration="2872000" />
+      <workItem from="1725299804785" duration="3176000" />
     </task>
     <servers />
   </component>
