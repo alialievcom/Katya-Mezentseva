@@ -5,7 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27e6a5f6-914b-4212-a8bf-f2df84372c9c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/soda/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soda/soda/а9.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/architecture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/illustrovich/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/illustrovich/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sculpture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sculpture/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,35 +72,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html (1).executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html (2).executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html (3).executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html (4).executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;new__server&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ali/WebstormProjects/Katya-Mezentseva/graphics/graphic&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html (1).executor": "Run",
+    "JavaScript Debug.index.html (2).executor": "Run",
+    "JavaScript Debug.index.html (3).executor": "Run",
+    "JavaScript Debug.index.html (4).executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "new__server",
+    "last_opened_file_path": "/Users/ali/WebstormProjects/Katya-Mezentseva/soda",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/soda" />
+      <recent name="$PROJECT_DIR$/soda/soda" />
       <recent name="$PROJECT_DIR$/graphics/graphic" />
       <recent name="$PROJECT_DIR$/animation" />
       <recent name="$PROJECT_DIR$/dist" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/sculpture" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -76,7 +110,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63344/Katya-Mezentseva/illustrovich/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -89,16 +123,16 @@
     <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Katya-Mezentseva/animation/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Katya-Mezentseva/architecture/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Katya-Mezentseva/soda/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +158,9 @@
       <workItem from="1708945347549" duration="1308000" />
       <workItem from="1709055341387" duration="786000" />
       <workItem from="1710685923386" duration="7250000" />
+      <workItem from="1710702277534" duration="1742000" />
+      <workItem from="1715609573722" duration="643000" />
+      <workItem from="1725299804785" duration="2507000" />
     </task>
     <servers />
   </component>
