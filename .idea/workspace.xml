@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e6a5f6-914b-4212-a8bf-f2df84372c9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/soda/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soda/soda/а9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/architecture/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graphics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/graphics/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/illustrovich/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/illustrovich/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sculpture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sculpture/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="27e6a5f6-914b-4212-a8bf-f2df84372c9c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +125,7 @@
       <workItem from="1710685923386" duration="7250000" />
       <workItem from="1710702277534" duration="1742000" />
       <workItem from="1715609573722" duration="643000" />
-      <workItem from="1725299804785" duration="2507000" />
+      <workItem from="1725299804785" duration="2872000" />
     </task>
     <servers />
   </component>
